@@ -12,7 +12,7 @@
 **Links:**
  
 * [LinkedIn](www.linkedin.com/in/wiillianoliveira)
-* [Medium](https://medium.com/@dataperformace)
+* [Medium](https://medium.com/@willian.oliveirappf)
 
 
 ## Projetos:
