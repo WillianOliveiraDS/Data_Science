@@ -19,6 +19,7 @@ Para entrar em contato comigo para amizades, network e propostas, os contatos es
  
 * [LinkedIn](www.linkedin.com/in/wiillianoliveira)
 * [Medium](https://medium.com/@willian.oliveirappf)
+* [WhatsApp](https://bit.ly/2MZSTXj)
 
 
 ## Projetos:
