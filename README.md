@@ -10,13 +10,12 @@
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* 
+ 
 * [LinkedIn](www.linkedin.com/in/wiillianoliveira)
 * [Medium](https://medium.com/@dataperformace)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise exploratória dos dados do Airbnb em Dublin**
 ---
