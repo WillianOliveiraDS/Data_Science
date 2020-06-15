@@ -10,6 +10,7 @@ Vou contar um pouco da minha hitória para você, como já dito logo acima me ch
 
 Para entrar em contato comigo para amizades, network e propostas, os contatos estão abaixo.
 
+
 .
 
 **Background in:** Python, Data Science, Machine Learning.
