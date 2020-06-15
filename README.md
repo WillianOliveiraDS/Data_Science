@@ -7,7 +7,7 @@
 
 .
 
-**Background in:** Python, Machine Learning.
+**Background in:** Python, Data Science, Machine Learning.
 
 **Links:**
  
