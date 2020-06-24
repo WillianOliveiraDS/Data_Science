@@ -24,5 +24,5 @@ Para entrar em contato comigo para amizades, network e propostas, os contatos es
 
 ## Projetos:
 
-* **Análise exploratória dos dados do Airbnb em Dublin**
+* **Análise exploratória dos dados do Airbnb em Dublin** https://bityli.com/fQzjs
 ---
