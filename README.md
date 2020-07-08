@@ -19,4 +19,5 @@ Cursando Ciência da Computação e um entusiasta pelo mercado financeiro fui ap
 ## Projetos:
 
 * **Análise exploratória dos dados do Airbnb em Dublin** https://bityli.com/fQzjs
+* **Análise da Violência no Rio de Janeiro** https://bit.ly/2O0yimi
 ---
