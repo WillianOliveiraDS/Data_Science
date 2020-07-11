@@ -5,7 +5,7 @@
 
 # Willian Oliveira
 
-Cursando Ciência da Computação e um entusiasta pelo mercado financeiro fui apresentado a ciência de dados e me apaixonei pela área e poder que ela nos proporciona, comecei a buscar conhecimento em cursos e palestras a respeito e dei inicio a este repositório para compartilhar meus estudos.
+Cursando Ciência da Computação fui apresentado a ciência de dados fique fascinado pela área e pelo poder que ela nos proporciona, comecei a buscar conhecimento em cursos e palestras a respeito, com isso iniciei este repositório para compartilhar meus estudos.
 
 **Background in:** Python, Data Science, Machine Learning.
 
