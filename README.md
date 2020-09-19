@@ -18,6 +18,6 @@ Cursando Ciência da Computação e Ciêntista de dados por paixão. Fui "aprese
 
 ## Projetos:
 
-* **Análise exploratória dos dados do Airbnb em Dublin** https://bityli.com/fQzjs
+* **Análise exploratória dos dados do Airbnb em Dublin** https://bit.ly/2FOKeqv
 * **Análise da Violência no Rio de Janeiro** https://bit.ly/2O0yimi
 ---
